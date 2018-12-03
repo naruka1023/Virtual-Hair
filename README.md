@@ -6,5 +6,8 @@
   proof of concept that is able to project a 3D hair into a smartphone's front camera capture, or in this case the webcam's capture. Through 
   countless all-nighters on a workday, confronting one elusive bug after the next and against all odds, I have completed what I have envisioned 
   when I first started this project. Still there is much to be done until it will be ready. But this small program is a testament to my 
-  affinity to perservere through staggering odds and came through, only to find out that its free to just develop it in vulforia with unity. Which is
-  what I should've done in the first place. 
+  affinity to perservere through staggering odds and came through, only to find out that its free to just develop it in vulforia with unity. Which is what I should've done in the first place. 
+  
+  https://www.youtube.com/watch?v=ywBvhLR5BIs
+  
+  https://www.youtube.com/watch?v=lQ680to_N0M
